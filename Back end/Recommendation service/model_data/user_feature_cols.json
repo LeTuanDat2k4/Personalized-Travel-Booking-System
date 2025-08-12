@@ -1,0 +1,52 @@
+{
+    "numerical": [
+        "budget_pref",
+        "travel_frequency_score"
+    ],
+    "categorical_indices": [
+        "location_pref_idx",
+        "property_type_pref_idx"
+    ],
+    "sparse": [
+        "user_amenity_air conditioning",
+        "user_amenity_b\u1ebfp",
+        "user_amenity_b\u1ec3 b\u01a1i",
+        "user_amenity_cho ph\u00e9p g\u1eedi h\u00e0nh l\u00fd",
+        "user_amenity_cho ph\u00e9p th\u00fa c\u01b0ng",
+        "user_amenity_ch\u1ed7 \u0111\u1ed7 xe mi\u1ec5n ph\u00ed t\u1ea1i n\u01a1i \u1edf",
+        "user_amenity_ch\u1ed7 \u1edf c\u00f3 camera an ninh ngo\u00e0i nh\u00e0",
+        "user_amenity_city skyline view",
+        "user_amenity_dedicated workspace",
+        "user_amenity_elevator",
+        "user_amenity_exterior security cameras on property",
+        "user_amenity_free parking on premises",
+        "user_amenity_hair dryer",
+        "user_amenity_hot tub",
+        "user_amenity_h\u01b0\u1edbng nh\u00ecn ra bi\u1ec3n",
+        "user_amenity_h\u01b0\u1edbng nh\u00ecn ra \u0111\u01b0\u1eddng ch\u00e2n tr\u1eddi th\u00e0nh ph\u1ed1",
+        "user_amenity_h\u1ed3 b\u01a1i chung ngo\u00e0i tr\u1eddi \u2013 c\u00f3 s\u1eb5n ho\u1eb7c ph\u1ee5c v\u1ee5 quanh n\u0103m",
+        "user_amenity_kh\u00f4ng c\u00f3 m\u00e1y b\u00e1o kh\u00f3i",
+        "user_amenity_kh\u00f4ng c\u00f3 m\u00e1y ph\u00e1t hi\u1ec7n kh\u00ed co",
+        "user_amenity_kh\u00f4ng gian ri\u00eang \u0111\u1ec3 l\u00e0m vi\u1ec7c",
+        "user_amenity_kitchen",
+        "user_amenity_lake access",
+        "user_amenity_lock on bedroom door",
+        "user_amenity_luggage dropoff allowed",
+        "user_amenity_l\u1ed1i ra b\u00e3i bi\u1ec3n \u2013 h\u01b0\u1edbng bi\u1ec3n",
+        "user_amenity_mi\u1ec5n ph\u00ed \u0111\u1ed7 xe tr\u00ean \u0111\u01b0\u1eddng/ph\u1ed1",
+        "user_amenity_m\u00e1y gi\u1eb7t",
+        "user_amenity_m\u00e1y s\u1ea5y t\u00f3c",
+        "user_amenity_m\u1edf c\u1eeda theo gi\u1edd gi\u1ea5c c\u1ee5 th\u1ec3",
+        "user_amenity_pets allowed",
+        "user_amenity_pool",
+        "user_amenity_thang m\u00e1y",
+        "user_amenity_tv",
+        "user_amenity_tv v\u1edbi truy\u1ec1n h\u00ecnh c\u00e1p ti\u00eau chu\u1ea9n",
+        "user_amenity_t\u1ea7ng th\u01b0\u1ee3ng",
+        "user_amenity_washer",
+        "user_amenity_waterfront",
+        "user_amenity_wi-fi",
+        "user_amenity_wifi",
+        "user_amenity_\u0111i\u1ec1u h\u00f2a nhi\u1ec7t \u0111\u1ed9"
+    ]
+}

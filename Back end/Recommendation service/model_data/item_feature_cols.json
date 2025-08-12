@@ -1,0 +1,53 @@
+{
+    "numerical": [
+        "log_price",
+        "rating_cleaned",
+        "log_distance"
+    ],
+    "categorical_indices": [
+        "location_encoded_idx",
+        "type_encoded_idx"
+    ],
+    "sparse": [
+        "amenity_air conditioning",
+        "amenity_b\u1ebfp",
+        "amenity_b\u1ec3 b\u01a1i",
+        "amenity_cho ph\u00e9p g\u1eedi h\u00e0nh l\u00fd",
+        "amenity_cho ph\u00e9p th\u00fa c\u01b0ng",
+        "amenity_ch\u1ed7 \u0111\u1ed7 xe mi\u1ec5n ph\u00ed t\u1ea1i n\u01a1i \u1edf",
+        "amenity_ch\u1ed7 \u1edf c\u00f3 camera an ninh ngo\u00e0i nh\u00e0",
+        "amenity_city skyline view",
+        "amenity_dedicated workspace",
+        "amenity_elevator",
+        "amenity_exterior security cameras on property",
+        "amenity_free parking on premises",
+        "amenity_hair dryer",
+        "amenity_hot tub",
+        "amenity_h\u01b0\u1edbng nh\u00ecn ra bi\u1ec3n",
+        "amenity_h\u01b0\u1edbng nh\u00ecn ra \u0111\u01b0\u1eddng ch\u00e2n tr\u1eddi th\u00e0nh ph\u1ed1",
+        "amenity_h\u1ed3 b\u01a1i chung ngo\u00e0i tr\u1eddi \u2013 c\u00f3 s\u1eb5n ho\u1eb7c ph\u1ee5c v\u1ee5 quanh n\u0103m",
+        "amenity_kh\u00f4ng c\u00f3 m\u00e1y b\u00e1o kh\u00f3i",
+        "amenity_kh\u00f4ng c\u00f3 m\u00e1y ph\u00e1t hi\u1ec7n kh\u00ed co",
+        "amenity_kh\u00f4ng gian ri\u00eang \u0111\u1ec3 l\u00e0m vi\u1ec7c",
+        "amenity_kitchen",
+        "amenity_lake access",
+        "amenity_lock on bedroom door",
+        "amenity_luggage dropoff allowed",
+        "amenity_l\u1ed1i ra b\u00e3i bi\u1ec3n \u2013 h\u01b0\u1edbng bi\u1ec3n",
+        "amenity_mi\u1ec5n ph\u00ed \u0111\u1ed7 xe tr\u00ean \u0111\u01b0\u1eddng/ph\u1ed1",
+        "amenity_m\u00e1y gi\u1eb7t",
+        "amenity_m\u00e1y s\u1ea5y t\u00f3c",
+        "amenity_m\u1edf c\u1eeda theo gi\u1edd gi\u1ea5c c\u1ee5 th\u1ec3",
+        "amenity_pets allowed",
+        "amenity_pool",
+        "amenity_thang m\u00e1y",
+        "amenity_tv",
+        "amenity_tv v\u1edbi truy\u1ec1n h\u00ecnh c\u00e1p ti\u00eau chu\u1ea9n",
+        "amenity_t\u1ea7ng th\u01b0\u1ee3ng",
+        "amenity_washer",
+        "amenity_waterfront",
+        "amenity_wi-fi",
+        "amenity_wifi",
+        "amenity_\u0111i\u1ec1u h\u00f2a nhi\u1ec7t \u0111\u1ed9"
+    ]
+}
